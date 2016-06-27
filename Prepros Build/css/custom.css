@@ -15,3 +15,38 @@ PORTO Quaternary= 	#7192c3	(light purple)
 
 */
 /* Add here all your CSS customizations */
+
+
+.slider-container .top-label {
+    color: #444;
+}
+
+.slider-container .main-label {
+    background: -webkit-linear-gradient(#8ed6ec, #4670a2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.slider-container .bottom-label {
+    color: #444;
+}
+
+/*
+.slider-container .top-label {
+    color: #444;
+    font-size: 24px;
+    font-weight: 600 !important;
+}
+
+.slider-container .main-label {
+    background: -webkit-linear-gradient(#8ed6ec, #4670a2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.slider-container .bottom-label {
+    color: #444;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 300;
+}*/
